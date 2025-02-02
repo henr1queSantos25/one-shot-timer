@@ -63,5 +63,3 @@ O sistema é ativado **ao pressionar o botão**, e os LEDs **ligam e desligam pr
 
 - **Henrique Santos**  
 - **[LinkedIn](https://www.linkedin.com/in/dev-henriqueo-santos/)**  
-
----
