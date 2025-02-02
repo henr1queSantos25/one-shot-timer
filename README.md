@@ -1,4 +1,4 @@
-# 🔘 Atividade 2: Temporizador de Um Disparo (One Shot)  
+# 🔘 Temporizador de Um Disparo (One Shot)  
 
 Este repositório contém um exemplo de código para a implementação de **um sistema de temporização acionado por um botão**, utilizando **temporizadores de um disparo (`add_alarm_in_ms()`)** no **Raspberry Pi Pico W**.  
 
@@ -11,7 +11,7 @@ Este repositório contém um exemplo de código para a implementação de **um s
 
 ## 📹 Vídeo do Projeto  
 
-- **[Ver Vídeo](#)** _(adicione o link do vídeo aqui)_  
+- **[Ver Vídeo](#)**  
 
 ## 🛠️ Tecnologias Utilizadas  
 
@@ -25,7 +25,7 @@ Este repositório contém um exemplo de código para a implementação de **um s
 
 ## 🗂️ Estrutura do Repositório  
 
-- `main.c`: Código-fonte principal contendo a implementação do sistema de temporização.  
+- `one-shot-timer.c`: Código-fonte principal contendo a implementação do sistema de temporização.  
 - `README.md`: Documentação detalhada do projeto.  
 - `diagram.json`: Configuração do circuito para simulação no **Wokwi**.  
 
@@ -52,6 +52,16 @@ O sistema é ativado **ao pressionar o botão**, e os LEDs **ligam e desligam pr
 | LED Vermelho | GP13         |  
 | Botão (Pushbutton) | GP5   |  
 
-## 💡 Desenvolvido por
-Henrique Oliveira
-📎 LinkedIn: **(https://www.linkedin.com/in/dev-henriqueo-santos/)**
+## ✨ Funcionalidades Demonstradas  
+
+- **Uso de temporizadores de um disparo (`add_alarm_in_ms()`)**.  
+- **Controle progressivo de LEDs via GPIO**.  
+- **Bloqueio de múltiplas execuções simultâneas com `emProgresso`**.  
+- **Simulação no Wokwi**.  
+
+## 💡 Desenvolvido por  
+
+- **Henrique Santos**  
+- **[LinkedIn](https://www.linkedin.com/in/dev-henriqueo-santos/)**  
+
+---
