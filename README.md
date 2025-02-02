@@ -11,7 +11,7 @@ Este repositório contém um exemplo de código para a implementação de **um s
 
 ## 📹 Vídeo do Projeto  
 
-- **[Ver Vídeo](#)**  
+- **[Ver Vídeo](https://drive.google.com/file/d/1Rch42XyErHJ5np9yWHtZDSt34t_K5iZ2/view?usp=sharing)**  
 
 ## 🛠️ Tecnologias Utilizadas  
 
