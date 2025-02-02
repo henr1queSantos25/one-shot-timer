@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/one-shot-timer.hex'
+elf = 'build/one-shot-timer.elf'
